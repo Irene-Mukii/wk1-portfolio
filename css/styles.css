@@ -16,3 +16,8 @@ ul {
 em{
   font-weight: bold;
 }
+.column{
+  float: left;
+  width: 350px;
+  background-color: aqua;
+}
