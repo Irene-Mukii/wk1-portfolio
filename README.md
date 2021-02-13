@@ -9,7 +9,7 @@ This website allows you to view the following;
 * Extra information about me!
 ## Setup/Installation Requirements
 * You need internet connectivity to vie this page
-### [Check it out!] ( )
+### Check it out[my resume](https://irene-mukii.github.io/wk1-portfolio/ )
 
 
 
@@ -17,6 +17,6 @@ This website allows you to view the following;
 * Tel: 0712345678
 * Email: abc@gmail.com 
 
-### [License] ( )
+### [License]( )
 
   
