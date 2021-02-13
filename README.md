@@ -17,6 +17,6 @@ This website allows you to view the following;
 * Tel: 0712345678
 * Email: abc@gmail.com 
 
-### [License]( )
+### [License](./LICENSE)
 
   
