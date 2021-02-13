@@ -4,6 +4,7 @@ img{
   margin-top: 0;
   margin-left: 30%;
   margin-right: 30%;
+  cursor: pointer;
 }
 h1 {
   color: black;
@@ -45,9 +46,4 @@ em{
 }
 .column img{
   width: 20%;
-}
-.button{
-  cursor: pointer;
-  border: blue;
-  text-align: center;
 }
